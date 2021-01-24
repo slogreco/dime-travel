@@ -1,7 +1,7 @@
 let googleMapsAPIKey = "AIzaSyAKeud47fDrKKEOtY9UDxjp4tcM5qx9ZVE";
 // let geoDataSourceAPI = "";
 let geoAPIKey = "93d3ded8310f4bcd0816861f0428d0f8";
-let exchangeRateAPIKey = "51a90cf03b5d4163f9f98fac";
+let exchangeRateAPIKey = "32e94a363d83061e8f4e0f90";
 let destination = "";
 
 let exchangeURL = "https://v6.exchangerate-api.com/v6/" + exchangeRateAPIKey + "/latest/USD"

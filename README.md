@@ -8,7 +8,7 @@
     Visualize your vacation destination while veiwing the currency exchange rate.
     <br />
     <br />
-    <a href="https://github.com/solaguirre/whineandcheese"><strong>View Demo »</strong></a>
+    <a href="https://slogreco.github.io/dime-travel/"><strong>View Demo »</strong></a>
     <br />
     <br />
    
@@ -57,7 +57,7 @@ Kyoto, Japan
 * Rhiley Southam
 * Marisol Aguirre
 
-Project Link: [https://solaguirre.github.io/whineandcheese/](https://solaguirre.github.io/whineandcheese/)
+Project Link: [https://slogreco.github.io/dime-travel/](https://slogreco.github.io/dime-travel/)
 
 ## Sources
 
