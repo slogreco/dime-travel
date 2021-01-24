@@ -59,6 +59,8 @@ Kyoto, Japan
 
 Project Link: [https://slogreco.github.io/dime-travel/](https://slogreco.github.io/dime-travel/)
 
+Repo Link: [https://github.com/slogreco/dime-travel](https://github.com/slogreco/dime-travel)
+
 ## Sources
 
 * [ReadMe Template source](https://github.com/othneildrew/Best-README-Template)
